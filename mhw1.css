@@ -1,0 +1,211 @@
+body {
+    font: sans-serif;
+    background-color: black;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+
+}
+
+.flex-header-container {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    justify-content: center;
+
+}
+
+.flex-span {
+    display: none;
+}
+
+.flex-image-logo {
+    height: 85px;
+    width: 151px;
+    vertical-align: middle;
+}
+
+.flex-header-obg {
+    color: white;
+    font: sans-serif;
+    margin: 0.8vw;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.flex-header-abbonati {
+    height: 37px;
+    width: 123px;
+    vertical-align: middle;
+}
+
+.flex-header-barra {
+    height: 35px;
+    width: 115px;
+    vertical-align: middle;
+}
+
+.header-container {
+    display: flex;
+    justify-content: center;
+}
+
+.flex-head-titolo {
+    font-weight: bold;
+    font-size: 80px;
+    color: white;
+    margin-left: 160px;
+    margin-top: 60px;
+}
+
+.flex-body-container {
+    display: flex;
+}
+
+.flex-body-obg1 {
+    color: red;
+    font: sans-serif;
+    font-weight: bold;
+    margin-left: 160px;
+    margin-top: -3.2%;
+    font-size: 25px;
+}
+
+.flex-body-obg2 {
+    color: red;
+    font: sans-serif;
+    font-weight: bold;
+    margin-left: 1%;
+    margin-top: -3.2%;
+    font-size: 25px;
+}
+
+.flex-body-obg3 {
+    color: red;
+    font: sans-serif;
+    font-weight: bold;
+    margin-left: 1%;
+    margin-top: -3.2%;
+    font-size: 25px;
+}
+
+.flex-body-obg4 {
+    color: red;
+    font: sans-serif;
+    font-weight: bold;
+    margin-left: 1%;
+    margin-top: -3.2%;
+    font-size: 25px;
+}
+
+.flex-body-bkg {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    z-index: -1;
+    width: 90vw;
+    margin-left: 40px;
+    height: 160vw;
+    margin-top: 1%;
+}
+.flex-body-art1 {
+    width: 50vw;
+    height: 65vh;
+    margin-top: 5%;
+    margin-left: -20vw;
+}
+
+.flex-body-p1 {
+    font: sans-serif;
+    font-weight: bold;
+    margin-left: -20vw;
+    margin-top: 76vh;
+    position: absolute;
+    z-index: -1;
+    font-size: 30px;
+}
+
+.flex-body-art2 {
+    width: 50vw;
+    height: 65vh;
+    margin-top: 85vh;
+    margin-left: -50vw;
+}
+
+.flex-body-p2 {
+    font: sans-serif;
+    font-weight: bold;
+    position: absolute;
+    z-index: -1;
+    font-size: 30px;
+    margin-left:-25vw;
+    margin-top: 152vh;
+}
+
+.flex-body-art3 {
+    width: 50vw;
+    height: 65vh;
+    margin-top: 161vh;
+    margin-left: -50vw;
+}
+
+.flex-body-p3 {
+    font: sans-serif;
+    font-weight: bold;
+    position: absolute;
+    z-index: -1;
+    font-size: 30px;
+    margin-left:-21vw;
+    margin-top: 228vh;
+}
+
+.flex-body-art4 {
+    width: 50vw;
+    height: 65vh;
+    margin-top: 238vh;
+    margin-left: -50vw;
+}
+
+.flex-body-p4 {
+    font: sans-serif;
+    font-weight: bold;
+    position: absolute;
+    z-index: -1;
+    font-size: 30px;
+    margin-left:-22vw;
+    margin-top: 305vh;
+}
+
+.flex-body-pa {
+    font: sans-serif;
+    color: red;
+}
+
+.flex-mondadori {
+    width: 3.8vw;
+    margin-top: 330vh;
+    margin-left: 13vw;
+    margin-bottom: 0vw;
+}
+
+.flex-mlog {
+    font: sans-serif;
+    font-weight: bold;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    margin-left: 16vw;
+    margin-top: -3vw;
+}
+
+.flex-pf {
+    font: sans-serif;
+    position: absolute;
+    color: white;
+    font-size: 18px;
+    margin-top: -1.4vw;
+    margin-left: 45vh;
+}
